@@ -33,6 +33,7 @@ mismo, manejando la creación, actualización, busqueda y eliminación de estos.
   <li>mysql</li>
   <li>lombok</li>
   <li>spring data jpa</li>
+  <li>Swagger</li>
 </ul>
 
 <h3>Créditos</h3>
